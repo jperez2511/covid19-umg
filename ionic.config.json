@@ -1,0 +1,7 @@
+{
+  "name": "covid19-umg",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
