@@ -1,3 +1,3 @@
 export let global = {
-    url: 'http://localhost:3069/'
+    url: 'https://167.172.233.14:3069/'
 }
